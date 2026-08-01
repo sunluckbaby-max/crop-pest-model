@@ -1,29 +1,3 @@
-                    Weather
-                       │
-      ┌────────────────┴────────────────┐
-      │                                 │
-      ▼                                 ▼
- Thermal Time                    Environmental Drivers
-      │                                 │
-      ▼                                 ▼
- Crop Phenology                 Temperature Suitability
-      │                         Humidity Suitability
-      ▼                         Rainfall Suitability
- Leaf Area Index                        │
-      │                                 │
-      ▼                                 ▼
- Biomass Production ─────────► Host Susceptibility
-                │                     │
-                └─────────────┬───────┘
-                              ▼
-                     Disease Risk Index
-                              │
-                              ▼
-                  Management Recommendation
-
-
-                  
-
 # 🌶️ Crop + pest model demo (i.e. CropGuard)
 
 **A modular process-based crop growth and pest risk model for decision support**
