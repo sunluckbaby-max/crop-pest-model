@@ -63,7 +63,6 @@ CropGuard/
 │     disease_risk_module.R
 │
 ├── Python/
-│     (coming soon)
 │
 ├── docs/
 │
